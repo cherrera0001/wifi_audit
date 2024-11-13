@@ -1,0 +1,11 @@
+{
+  "aes_key": "your_aes_key",
+  "iv": "your_iv",
+  "paths": {
+      "logfilePath": "../logs/hashing_logs.log",
+      "jsPath": "../scripts/decrypt.js",
+      "nodePath": "path/to/node",
+      "tmpPath": "../tmp"
+  },
+  "dummyPort": 8000
+}
