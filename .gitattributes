@@ -1,0 +1,7 @@
+# Forzar finales de línea LF en archivos de código
+*.py text eol=lf
+*.sh text eol=lf
+
+# Forzar CRLF en archivos de Windows
+*.bat text eol=crlf
+*.ps1 text eol=crlf
